@@ -1,6 +1,6 @@
-# Social Media Performance Analysis – Onyx Data DNA Challenge (June 2025)
+# Social Media Performance Analysis â€“ Onyx Data DNA Challenge (June 2025)
 
-This project is my submission for the **Onyx Data dataDNA Challenge – June 2025**, focused on analyzing a comprehensive social media performance dataset from 2024. The objective was to extract actionable insights that can inform better **content strategies**, **posting schedules**, and **platform-specific decisions**.
+This project is my submission for the **Onyx Data dataDNA Challenge â€“ June 2025**, focused on analyzing a comprehensive social media performance dataset from 2024. The objective was to extract actionable insights that can inform better **content strategies**, **posting schedules**, and **platform-specific decisions**.
 
 The dataset included over **5,500 posts** across **TikTok, Instagram, Facebook, LinkedIn, YouTube**, and **X.com**, with metrics such as:
 - Content type (video, carousel, text, PDF, live stream, etc.)
@@ -43,17 +43,24 @@ The dataset included over **5,500 posts** across **TikTok, Instagram, Facebook, 
 #### Regional Trends
 - **USA, Japan, and Brazil** led in total video views and engagement.
 - CTR varied by region: **Japan had the highest CTR (0.70%)**, while **India and Brazil** showed the lowest (~0.59%).
-- Engagement rate was consistent across countries (~13.3–13.7%).
+- Engagement rate was consistent across countries (~13.3â€“13.7%).
 
 #### Posting Strategy
 - Best time to post: **mid-week around noon**, or **weekend afternoons**
 - Strategic hashtags like **#CustomerStory, #FeatureHighlight**, and **#ProductDemo** helped boost impressions.
 
 
-## ?? Power BI Dashboard (Screenshots)
+## Power BI Dashboard 
 
-| Summary View | Platform View | Regional View |
-|--------------|---------------|----------------|
-| ![Summary](./Report_Summary.png) | ![Platform](./Report_Platform.png) | ![Region](./Report_Region.png) |
+![1_Report_Summary](https://github.com/user-attachments/assets/759f3fcd-c2fd-4cff-b45c-0845b56ea7da)
+
+
+![2_Report_Platform_Performance](https://github.com/user-attachments/assets/e4c392d7-e191-4000-8e59-1e2e16bdc301)
+
+
+![3_Report_Regional_Performance](https://github.com/user-attachments/assets/031754c8-f22f-43e9-9935-1f5ebd0e38f9)
+
+
+
 
 
